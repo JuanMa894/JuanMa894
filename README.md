@@ -1,10 +1,10 @@
 ### Hi there 👋 My name is Juan 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-acost/)
-[![Medium](https://img.shields.io/badge/-Medium-12100e?style=flat&logo=Medium&logoColor=white)](https://medium.com/@jmaa3108)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaa3108@gmail.com)
 ***
 
+🌱 I’m currently learning [![Tableau](https://cdn.iconscout.com/icon/free/png-512/tableau-5376638-4489898.png?w=512&f=avif)](https://www.tableau.com/)
 
 
 <!--
