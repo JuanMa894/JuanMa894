@@ -1,8 +1,5 @@
-<p align="center">
-  
-  <b>Hi there 👋 My name is Juan</b><br>
-  
-</p>
+### Hi there 👋 My name is Juan
+
 
 📫 How to reach me:
 
