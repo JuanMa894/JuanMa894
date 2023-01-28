@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Juan 
 
+📫 How to reach me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-acost/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaa3108@gmail.com)
 ***
 
-🌱 I’m currently learning [![Tableau](https://cdn.iconscout.com/icon/free/png-512/tableau-5376638-4489898.png?w=512&f=avif)](https://www.tableau.com/)
+🌱 I’m currently learning Tableau
 
 
 <!--
