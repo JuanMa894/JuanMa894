@@ -1,14 +1,14 @@
-
+<p align="center">
   
- <p align="center"> ### Hi there 👋 My name is Juan </p>
+### Hi there 👋 My name is Juan
 
-<p align="center"> 📫 How to reach me: </p>
+📫 How to reach me:
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-acost/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaa3108@gmail.com)
 
-<p align="center"> [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jun-acost/) </p>
-<p align="center"> [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jmaa3108@gmail.com) </p>
-***
 </p>
+***
 
 🌱 I’m currently learning Tableau
 
