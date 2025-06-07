@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Juan
+### Hi there 👋
 
 
 📫 How to reach me:
